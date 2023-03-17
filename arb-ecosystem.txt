@@ -7,3 +7,10 @@ Tokenless Arbitrum Projects
         (Risk-On Vault, Risk-Off Vault, or 80-20 tricrypto)
         • open multiple leverage trades over a month
 
+@sentimentxyz
+    A permissionless undercollateralized on-chain credit protocol.
+    🪂 Strategy:
+    • mint a Sentiment Account once accessing the Sentiment app
+    • supply liquidity to all available pools
+    • open multiple leverage debt positions over a month
+
