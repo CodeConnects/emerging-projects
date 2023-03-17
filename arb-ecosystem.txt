@@ -1,0 +1,9 @@
+Tokenless Arbitrum Projects
+
+@rage_trade
+    An ETH Perp powered by UniV3.
+    🪂 Strategy:
+        • supply liquidity to one of its vaults
+        (Risk-On Vault, Risk-Off Vault, or 80-20 tricrypto)
+        • open multiple leverage trades over a month
+
