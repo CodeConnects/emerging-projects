@@ -22,3 +22,10 @@ Tokenless Arbitrum Projects
         • open long & short trades
         • submit feedback: https://vertex.hellonext.co
 
+@ShellProtocol
+    An AMM that supports single-sided liquidity provision.
+    🪂 Strategy:
+        • provide liquidity
+        • execute multiple swaps over a month
+        • buy a Government Toucan NFT
+
