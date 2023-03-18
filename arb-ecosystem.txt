@@ -29,3 +29,7 @@ Tokenless Arbitrum Projects
         • execute multiple swaps over a month
         • buy a Government Toucan NFT
 
+@GammaSwapLabs
+    A DEX enabling perpetual leverage trading on any token.
+    🪂 Strategy:
+    • provide/borrow liquidity multiple times over a month
