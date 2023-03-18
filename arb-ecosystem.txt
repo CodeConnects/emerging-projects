@@ -10,7 +10,15 @@ Tokenless Arbitrum Projects
 @sentimentxyz
     A permissionless undercollateralized on-chain credit protocol.
     🪂 Strategy:
-    • mint a Sentiment Account once accessing the Sentiment app
-    • supply liquidity to all available pools
-    • open multiple leverage debt positions over a month
+        • mint a Sentiment Account once accessing the Sentiment app
+        • supply liquidity to all available pools
+        • open multiple leverage debt positions over a month
+
+@vertex_protocol
+    An upcoming all-in-one DEX.
+    Vertex Public Testnet is live on Goerli Testnet.
+    🪂 Strategy:
+        • place buy & sell orders
+        • open long & short trades
+        • submit feedback: https://vertex.hellonext.co
 
