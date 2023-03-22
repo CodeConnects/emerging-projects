@@ -1,2 +1,23 @@
 ZetaChain is a foundation layer chain, than can connect all other chains
 
+Testnets
+    • Add Goerli testnet network in Metamask using https://chainlist.org/?search=goerli&testnets=true
+    • Request testnet ETH on https://goerlifaucet.com
+    • Add Mumbai testnet network in Metamask using https://chainlist.org/?search=mumbai&testnets=true
+    • Request testnet MATIC on https://goerlifaucet.com
+
+Connect your Twitter and MetaMask wallet at http://labs.zetachain.com/leaderboard.
+
+Request test $ZETA tokens
+    • Go to http://labs.zetachain.com/get-zeta
+    • Click on "Request Assets"
+     Go to http://discord.gg/zetachain
+    • Choose the "zeta-faucet" channel
+    • Write "Zeta faucet drip (your wallet address)"
+
+Swap your $ZETA/$ETH/$MATIC
+    • Go to http://labs.zetachain.com/swap
+    • Swap from Goerli to Polygon Mumbai testnet
+    • Swap from Polygon Mumbai testnet to BSC testnet
+    For this task, you will get 7,000 ZetaPoints weekly.
+    So don't forget to repeat the swapping every week.
