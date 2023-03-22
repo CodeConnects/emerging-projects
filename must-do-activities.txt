@@ -1,0 +1,6 @@
+Scroll deploy:
+    https://guide.scroll.io/developers/contract-deployment-tutorial
+
+zkSync deploy:
+    https://era.zksync.io/docs/
+
