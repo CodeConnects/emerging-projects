@@ -33,3 +33,8 @@ YouTube 🎞️
     • Subscribe on YouTube: https://youtube.com/channel/UCA7wfK91O1CmwHm4LELnNHw — 5 $QUAI
     • Like & comment on videos that are less than 7 days old — 1 $QUAI
     To receive YouTube rewards, the user profile and activity data must be public (Settings - Privacy).
+
+Set up a node and miner:
+    • https://docs.quai.network/node/node-overview
+    • https://docs.quai.network/mine/miner-overview
+    https://docs.quai.network/mine/miner-overview
