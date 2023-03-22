@@ -6,3 +6,11 @@ The allocation of $QUAI for airdrops is:
     • 0.5% for Testnet Incentives
     • 4% for Contributors
     • 3% for Community
+
+Quai Network plans to conduct 5 incentivized Testnets before the Mainnet launch:
+    • Stone Age (Finished in Dec 2021)
+    • Bronze Age (Finished in Mar 2022)
+    • Iron Age (Coming Soon)
+    • Golden Age (2023)
+    • Silicon Age (2023)
+    • Mainnet (Estimated Q3 2023)
