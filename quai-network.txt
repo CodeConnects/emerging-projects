@@ -1,0 +1,2 @@
+Quai Network is a Layer 1 blockchain that aims to achieve 50,000+ TPS without compromising security or decentralization.
+The modular architecture will greatly improve scalability and interoperability between all chains.
