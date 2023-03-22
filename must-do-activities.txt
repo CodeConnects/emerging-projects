@@ -4,3 +4,5 @@ Scroll deploy:
 zkSync deploy:
     https://era.zksync.io/docs/
 
+Aleo Validator
+    https://docs.google.com/forms/d/e/1FAIpQLSfSp14iobc4qcMu54ZaCs0FucXLTXoE8YaSwoSumOurLsPnzA/viewform
