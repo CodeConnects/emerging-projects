@@ -12,3 +12,13 @@ Go to https://explorer.5ire.network/faucet
     • Request tokens for the EVM chain as well
     
     *The faucet might be lagging, but after 10 clicks, it worked for me.
+
+    • In the swap section, make a transfer between Native & EVM chain
+    • Click on "Add 5ire Network" in MetaMask
+    • Choose 5ire in your MetaMask and copy the address
+    • Open 5irechain wallet and send some tokens to the address in EVM chain
+    • You can also make a second 5ire wallet in another Google Chrome profile and transfer between them
+
+Make the tasks on Crew3
+    Link: https://crew3.xyz/c/5irechain/invite/cMkbqSNiaL-9MuZfD-NBl
+    
