@@ -21,4 +21,9 @@ Go to https://explorer.5ire.network/faucet
 
 Make the tasks on Crew3
     Link: https://crew3.xyz/c/5irechain/invite/cMkbqSNiaL-9MuZfD-NBl
-    
+
+• Open 5ire discord channel
+    • In the section "testnet feedback" send your wallets and proofs (screenshots of transfers etc.). 
+
+• If you're a developer you can deploy a smart contract 
+    Discord: https://discord.com/invite/5ire
