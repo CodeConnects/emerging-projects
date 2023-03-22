@@ -6,3 +6,6 @@ zkSync deploy:
 
 Aleo Validator
     https://docs.google.com/forms/d/e/1FAIpQLSfSp14iobc4qcMu54ZaCs0FucXLTXoE8YaSwoSumOurLsPnzA/viewform
+
+ZetaChain Validator
+    https://metaform.xyz/user/64107568a64e4b8d805296dc
