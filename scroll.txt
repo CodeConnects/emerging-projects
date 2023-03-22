@@ -13,3 +13,6 @@ Go to Scroll Uniswap and follow these steps:
 
 Deploy your own smart contract
     https://guide.scroll.io/developers/contract-deployment-tutorial
+
+Get guild roles
+    https://guild.xyz/scrollzkp
