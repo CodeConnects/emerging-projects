@@ -1,0 +1,2 @@
+ZetaChain is a foundation layer chain, than can connect all other chains
+
