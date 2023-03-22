@@ -1,0 +1,14 @@
+5ireChain raised $121M in a Series A round. The mainnet launch is planned for Q3 2023.
+
+Go to https://explorer.5ire.network/faucet
+    • At the top of the page click on "Download wallet extension"
+    • Unzip the file
+    • Go to the Chrome extension management page
+    • Turn on developer mode
+    • Click on "Load unpacked extension" and choose the downloaded file
+    • Set up a wallet and save your keys
+    • Click on Settings → Manage wallet and copy the "Native chain address."
+    • Go to the faucet and request 5 $5IRE
+    • Request tokens for the EVM chain as well
+    
+    *The faucet might be lagging, but after 10 clicks, it worked for me.
