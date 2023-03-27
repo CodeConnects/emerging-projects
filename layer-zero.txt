@@ -13,3 +13,10 @@ usdcdemo.layerzero.network/bridge:
     • Add Goerli and Avalanche Fuji testnet chains with http://chainlist.org
     • Get testnet tokens with faucets: http://faucet.avax.network, http://usdcfaucet.com, and http://goerlifaucet.com
     • Bridge testnet tokens
+
+@rage_trade
+    • Open positions on perps
+    • Deposit USDC and GLP in vaults
+
+@RDNTCapital
+    • Deposit and borrow tokens
