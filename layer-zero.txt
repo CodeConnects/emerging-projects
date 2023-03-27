@@ -8,3 +8,8 @@ Bridge funds to Aptos via http://theaptosbridge.com/bridge and http://bridge.liq
     • Vote with $veSTG on http://snapshot.org/#/stgdao.eth
     • Bridge funds via it (use chains with low fees)
     • Provide liquidity for the bridge
+
+usdcdemo.layerzero.network/bridge:
+    • Add Goerli and Avalanche Fuji testnet chains with http://chainlist.org
+    • Get testnet tokens with faucets: http://faucet.avax.network, http://usdcfaucet.com, and http://goerlifaucet.com
+    • Bridge testnet tokens
