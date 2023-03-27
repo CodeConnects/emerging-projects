@@ -1,0 +1,10 @@
+LayerZero Labs recently raised more than $170M from the biggest VCs
+
+Bridge funds to Aptos via http://theaptosbridge.com/bridge and http://bridge.liquidswap.com.
+    It's better to bridge them from chains with low fees like Arbitrum or Polygon
+
+@StargateFinance
+    • Stake $STG
+    • Vote with $veSTG on http://snapshot.org/#/stgdao.eth
+    • Bridge funds via it (use chains with low fees)
+    • Provide liquidity for the bridge
