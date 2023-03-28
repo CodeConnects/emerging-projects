@@ -1,0 +1,7 @@
+Scroll Alpha Testnet
+
+Get Test Tokens:
+    ‣ Open & Connect: https://scroll.io/alpha
+    ‣ Add Layer 1 & 2 to metamask.
+    ‣ Claim test tokens: https://goerlifaucet.com
+
