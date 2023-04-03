@@ -1,0 +1,6 @@
+Trade on http://trade.zigzag.exchange
+
+Create your own NFTs on @pinatacloud
+    • Go to http://app.pinata.cloud/register and create an account.
+    • Click on "Add Files", then "File" and upload a picture.
+    • Copy the CID of this picture.
