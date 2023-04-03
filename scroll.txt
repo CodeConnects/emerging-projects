@@ -6,4 +6,10 @@ Get Test Tokens:
     ‣ Claim test tokens: https://goerlifaucet.com
     ‣ Go to "Bridge".
     ‣ Convert $ETH from "Goerli" to "Scroll Alpha".
-    ‣ Will take 10 mins.
+
+Go to Scroll Uniswap and follow these steps:
+    • Swap ETH for tokens and back
+    • Add some liquidity into the pool
+
+Deploy your own smart contract
+    https://guide.scroll.io/developers/contract-deployment-tutorial

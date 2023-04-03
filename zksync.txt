@@ -4,3 +4,14 @@ Create your own NFTs on @pinatacloud
     • Go to http://app.pinata.cloud/register and create an account.
     • Click on "Add Files", then "File" and upload a picture.
     • Copy the CID of this picture.
+
+Complete zkSync CREW3 quests - https://crew3.xyz/c/zksync/invite/03AjzrB9lRBYS6tSCJLmZ
+
+@mute_io
+    • Go to http://goerli.portal.zksync.io/faucet and request testnet ETH.
+    • Add zkSync Testnet chain with http://chainlist.org/?search=zksync&testnets=true.
+    • Swap on http://app.mute.io/swap.
+    • Add liquidity on http://app.mute.io/pool.
+
+deploy your own smart contract on zkSync. 
+    https://era.zksync.io/docs/dev/building-on-zksync/contracts/contract-deployment.html
