@@ -1,1 +1,4 @@
 Fuel Network ~ modular execution layer using Sway language
+
+Airdrop guide
+    https://twitter.com/rektfencer/status/1638148538482716673
