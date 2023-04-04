@@ -6,8 +6,13 @@ Join Twitter
 Join Discord
     https://t.co/zYasNBDz9Z
 
-• Use Faucet
+Sei announced new missions in partnership with Blocked Protocol
+    ⚙️ What to do?
+    - https://chrome.google.com/webstore/detail/fcfcfllfndlomdhbehjjcoimbgofdncg and download the Leap wallet
+    - Import a seed phrase from your Keplr wallet
+    - Switch the network to Atlantic Sei 2 and take test tokens
+    - Go to the https://edu.blocked.cc/trails/15/chapters/43 and connect your Leap wallet by clicking on "Sign in"
+    - Now start completing the task
+    - Also, complete missions on https://edge.blocked.cc/products/1
 
-Seinami Testnet 4 quests are closed
-
-Repeat trades + form daily.
+https://mirror.xyz/atoms-research.eth/3ly8TPzBTrlJnSWgphNZicF49i6hubGYX3uO-W4y14c

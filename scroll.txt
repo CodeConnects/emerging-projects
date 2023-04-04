@@ -16,3 +16,19 @@ Deploy your own smart contract
 
 Get guild roles
     https://guild.xyz/scrollzkp
+
+- Send test ETH from the Goerli network to Scroll via the bridge
+    https://scroll.io/alpha/bridge
+
+https://staging.syncswap.xyz/swap
+    - Take the test tokens in the "Faucet" tab
+    - Swap available tokens with each other in the "Trade" tab
+    - After that, go to the "Pool" tab --> "New Position"
+    - Select the type of pool and the token pair
+
+    - Switch to the "My Position" tab and click "Deposit now"
+    - Specify the amount you want to deposit, unlock the tokens, and make a deposit
+    - In the "Withdraw" tab, withdraw some of the tokens
+    - Repeat these steps several times
+    - Leave feedback in Discord
+    https://discord.com/invite/syncswap
