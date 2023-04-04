@@ -9,3 +9,6 @@ Aleo Validator
 
 ZetaChain Validator
     https://metaform.xyz/user/64107568a64e4b8d805296dc
+
+Shardeum Node
+    https://docs.shardeum.org/node/run/validator
