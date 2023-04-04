@@ -1,0 +1,10 @@
+Shardeum
+    EVM-based L1 blockchain which uses dynamic state sharding to increase TPS with every new node
+
+discord.gg/shardeum
+
+Testnet guide:
+    https://twitter.com/rektfencer/status/1639200265621450753
+
+The airdrop for running nodes has been confirmed ✅
+    https://docs.shardeum.org/node/run/validator
