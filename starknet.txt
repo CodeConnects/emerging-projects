@@ -1,0 +1,15 @@
+Starknet
+
+Send $ETH to the StarkNet network via the official bridge
+    https://starkgate.starknet.io
+    - Then follow the links and swap tokens
+    https://orbiter.finance/?source=Ethereum&dest=Starknet
+    https://10kswap.com
+    https://app.jediswap.xyz/#/swap
+
+Go to the following website and deposit ~$7
+    https://alpha.nostra.finance
+    - Visit Galxe and claim OAT
+    https://galxe.com/NostraFinance/campaign/GCBwWU4zDc
+    - Follow the link, select NFT, and mint
+    https://mintsquare.io/collection/starknet/0x012f8e318fe04a1fe8bffe005ea4bbd19cb77a656b4f42682aab8a0ed20702f0
