@@ -7,6 +7,14 @@ Create your own NFTs on @pinatacloud
 
 Complete zkSync CREW3 quests - https://crew3.xyz/c/zksync/invite/03AjzrB9lRBYS6tSCJLmZ
 
+Bridge with Orbiter and do their quests
+    https://guild.xyz/orbiter-finance
+    https://t.co/gPPsuin8B9
+
+Syncswap quests
+    https://discord.com/invite/syncswap
+    https://galxe.com/SyncSwap/campaign/GCd81U1awt
+
 @mute_io
     • Go to http://goerli.portal.zksync.io/faucet and request testnet ETH.
     • Add zkSync Testnet chain with http://chainlist.org/?search=zksync&testnets=true.
@@ -23,3 +31,13 @@ Project to use
     Goal3_xyz
     PhezzanProtocol
     IncrementHQ
+    derivio_xyz
+    MESprotocol
+    perpdex
+    SynFuturesDefi
+    atomic__green
+    SatisDEX
+
+
+
+
