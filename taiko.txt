@@ -1,0 +1,8 @@
+Taiko ~ zk rollup
+
+ Go to https://faucet-sepolia.rockx.com and connect your wallet.
+    - Change the network to Sepolia test network.
+    - Click TWEET. Delete 0x00... and paste your address. Click Tweet.
+    - Copy the URL of your tweet and paste it on the faucet. Click Send Me ETH.
+
+
