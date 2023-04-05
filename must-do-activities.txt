@@ -12,3 +12,6 @@ ZetaChain Validator
 
 Shardeum Node
     https://docs.shardeum.org/node/run/validator
+
+Taiko Node
+    https://taiko.xyz/docs/guides/run-a-node
