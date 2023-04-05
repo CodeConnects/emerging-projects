@@ -5,4 +5,21 @@ Taiko ~ zk rollup
     - Click TWEET. Delete 0x00... and paste your address. Click Tweet.
     - Copy the URL of your tweet and paste it on the faucet. Click Send Me ETH.
 
+Sepolia Eth given may not be enough to use on the bridge. What to do:
+    1- Use https://faucet-sepolia.rockx.com  again (every 4h)
+    2- Ask for some on discord https://discord.com/invite/taikoxyz
+    3- Use this PoW faucet https://sepolia-faucet.pk910.de
+    4- Comment your address and I will try to send to some people.
+
+Bridge
+    - Go to https://bridge.a2.taiko.xyz and connect your wallet.
+    - Click on the arrow. A pop will appear to add the Taiko A2 network. Approve and change to Taiko network in your wallet.
+
+Swap
+    - Go to https://swap.a2.taiko.xyz/#/ and connect your wallet.
+    - Click Select a token.
+    - Click Choose a list.
+    - Click Select.
+    - Click BLL.
+
 
