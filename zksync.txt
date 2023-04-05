@@ -1,5 +1,13 @@
 Trade on http://trade.zigzag.exchange
 
+Use ZkSync Era Testnet
+    Claim test tokens http://goerli.portal.zksync.io
+    And interact with these protocols : swap, trade & add liquidity…
+    @spacefi_io
+    @mute_io
+    @NexonFi
+    @syncswap
+
 Create your own NFTs on @pinatacloud
     • Go to http://app.pinata.cloud/register and create an account.
     • Click on "Add Files", then "File" and upload a picture.
