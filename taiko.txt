@@ -22,4 +22,6 @@ Swap
     - Click Select.
     - Click BLL.
 
+For more advanced users there is the possibility to run a node and be a prover (tutorial https://taiko.xyz/docs/guides/run-a-node)
 
+You can also give feedback at https://docs.google.com/forms/d/e/1FAIpQLSdD9J8_dl2spOg7kHPAyzRSrfityz80WKtZ0APCNjq-dO8PTg/viewform
