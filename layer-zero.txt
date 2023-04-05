@@ -1,5 +1,15 @@
 LayerZero Labs recently raised more than $170M from the biggest VCs
 
+Get Faucet USDC
+    - Go here https://usdcfaucet.com
+    - Put in your ETH address
+    - Get Faucet USDC
+
+Bridge USDC on testnet
+    - Go here https://usdcdemo.layerzero.network/bridge
+    - Connect wallet
+    - Bridge your USDC from step 1
+
 Bridge funds to Aptos via http://theaptosbridge.com/bridge and http://bridge.liquidswap.com.
     It's better to bridge them from chains with low fees like Arbitrum or Polygon
 
