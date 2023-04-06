@@ -8,3 +8,8 @@ Bridge and swap
 
 Give feedback
     https://docs.google.com/forms/d/e/1FAIpQLSen0KN2uqKMJuUxBH8yTfwrb-xdN48kA-NmO-DSCJMYRdQyMA/viewform
+
+Interact with the following platforms:
+    http://zkevm.fwdx.xyz
+    http://app.mesprotocol.com/spot/ETH-USDC
+    http://app.nft.ghostchain.io/#/zkevm
