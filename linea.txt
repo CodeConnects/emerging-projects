@@ -3,3 +3,8 @@ Linea ~ zk renamed from ConsenSys zkEVM
 Deploy a smart contract
     https://docs.linea.build/developers/quickstart
 
+Bridge and swap
+    https://goerli.linea.build/
+
+Give feedback
+    https://docs.google.com/forms/d/e/1FAIpQLSen0KN2uqKMJuUxBH8yTfwrb-xdN48kA-NmO-DSCJMYRdQyMA/viewform
