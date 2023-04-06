@@ -5,6 +5,8 @@ ZetaChain is a foundation layer chain, than can connect all other chains
 3️⃣ Galxe quests
 4️⃣ Guild
 
+https://twitter.com/AlphaFrog13/status/1641833236774162436
+
 Testnets
     • Add Goerli testnet network in Metamask using https://chainlist.org/?search=goerli&testnets=true
     • Request testnet ETH on https://goerlifaucet.com
