@@ -1,1 +1,7 @@
 Subspace Network is a 4th-gen blockchain, a step up from third-gen like Solana and Ethereum 2.0
+
+Running a Node
+
+    Download the polkadot.js extension and create a wallet.
+    • https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd
+    Save your mnemonic
