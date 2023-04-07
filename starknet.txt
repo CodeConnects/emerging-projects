@@ -1,5 +1,31 @@
 Starknet
 
+https://twitter.com/wacy_time1/status/1642640102043291649
+
+Create a StarkNet wallet
+    ▫️ https://argent.xyz/argent-x/
+    ▫️ https://braavos.app/download-braavos-wallet/
+
+ Go to https://starkgate.starknet.io
+    ▫️ Connect your wallets
+    ▫️ Select the amount
+    ▫️ Bridge ETH from Mainnet to Starknet
+
+mySwapxyz
+    Swap and add liquidity on http://myswap.xyz
+    ▫️ Swap any Tokens
+    ▫️ Add Liquidity
+
+10KSwap
+    Swap and add liquidity on http://10kswap.com
+    ▫️ Swap any Tokens
+    ▫️ Add Liquidity
+
+JediSwap
+    Swap and add liquidity on http://app.jediswap.xyz
+    ▫️ Swap any Tokens
+    ▫️ Add Liquidity
+
 Send $ETH to the StarkNet network via the official bridge
     https://starkgate.starknet.io
     - Then follow the links and swap tokens
