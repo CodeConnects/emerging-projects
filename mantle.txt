@@ -1,2 +1,19 @@
 Mantle ~ L2 from BitDao (Bybit defi)
 
+ http://faucet.testnet.mantle.xyz
+    • Claim 1000 testnet $BIT
+
+Interact with Mantle bridge:
+    • Transfer Goerli $ETH to the Mantle network
+    • Transfer $BIT to the Mantle network
+
+Switch wallet network to Mantle
+    • Go to withdraw tab & transfer $BIT/$ETH back
+    • Follow the steps on the screenshots to finish your transfer
+
+MantleSwap
+    • Swap some $BIT for any coin
+    • Provide liquidity in the pool tab
+    http://testnet.mantleswap.org
+
+Complete Crew3 tasks
