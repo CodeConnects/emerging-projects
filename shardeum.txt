@@ -3,8 +3,25 @@ Shardeum
 
 discord.gg/shardeum
 
+Step 1: Add Shardeum chain to your Metamask.
+    Both versions, 1.6 and 2.0, are available. But most dapps are only on 1.6. So add both options and use accordingly.
+    • https://chainlist.org/chain/8080
+    • https://chainlist.org/chain/8081
+
 Testnet guide:
     https://twitter.com/rektfencer/status/1639200265621450753
 
 The airdrop for running nodes has been confirmed ✅
     https://docs.shardeum.org/node/run/validator
+
+Create your own NFT's.
+    • https://spriyo.xyz
+    – Select "Single"
+    – Upload an image and fill out the info
+    – Click "Create"
+
+Register your own domain.
+    • https://dotshm.me
+
+Complete Crew3 quests.
+    • https://crew3.xyz/c/shardeumofficial/invite/715grTT0_v_f9ryuLcy83
