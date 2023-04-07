@@ -1,0 +1,29 @@
+Axelar ~ Secure interchain communication
+
+Bridge gETH to Base
+    ▫️ Go to website https://bridge.base.org/deposit
+    ▫️ Connect wallet
+    ▫️ Choose networks as on the screenshot
+    ▫️ Enter an amount
+    ▫️ Click "Deposite ETH"
+
+Faucet aUSDC
+    ▫️ Join Discord http://discord.com/invite/axelar
+    ▫️ Find "Faucet" channel
+    ▫️ Write command "!faucet base YOURWALLET"
+    ▫️ You will receive aUSDC
+
+Bridge
+    ▫️ Go to the website http://testnet.satellite.money
+    ▫️ Choose networks
+    ▫️ Select ETH or aUSDC
+    ▫️ Enter an amount
+    ▫️ Click "Fill with"
+    ▫️ Click "Generate......."
+    ▫️ Confirm transactions
+
+    Bridge ETH or aUSDC from Base to ETH Goerli and back
+
+Additionally
+    ▫️ You can bridge tokens in any networks you want
+    ▫️ I recommend interacting more with Base
