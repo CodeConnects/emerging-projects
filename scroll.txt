@@ -12,20 +12,22 @@ Get Test Tokens:
 
 https://staging.syncswap.xyz/swap
     - Get test tokens from the "Faucet" tab
-    
-    - Swap available tokens with each other in the "Trade" tab
-    - After that, go to the "Pool" tab --> "New Position"
-    - Select the type of pool and the token pair
 
+    - Swap available tokens with each other in the "Trade" tab
+
+    - After that, go to the "Pool" tab --> "New Position"
     - Switch to the "My Position" tab and click "Deposit now"
     - Specify the amount you want to deposit, unlock the tokens, and make a deposit
+
     - In the "Withdraw" tab, withdraw some of the tokens
+
     - Repeat these steps several times
     - Leave feedback in Discord
     https://discord.com/invite/syncswap
 
-Go to Scroll Uniswap and follow these steps:
+Go to Scroll Uniswap https://uniswap-v3.scroll.io/#/swap
     • Swap ETH for tokens and back
+    Tokens from the faucet can be added as custom tokens
     • Add some liquidity into the pool
 
 Deploy your own smart contract
