@@ -1,6 +1,6 @@
 Subspace Network is a 4th-gen blockchain, a step up from third-gen like Solana and Ethereum 2.0
 
-Running a Node
+Installing a Node
 
     Download the polkadot.js extension and create a wallet.
     • https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd
@@ -8,3 +8,17 @@ Running a Node
 
     Save your wallet address from:
     • https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Feu-0.gemini-3c.subspace.network%2Fws#/accounts
+
+    Open SSH in Putty
+
+    Run this command for a quick installation
+    wget -O http://subspace.sh https://api.nodes.guru/subspace.sh && chmod +x http://subspace.sh && ./subspace.sh
+    Type your wallet adress and click enter, then type your node name and click enter.
+    Enter through last 3 defaults, and node is installed
+
+Check the logs
+    journalctl -u subspaced -f -o cat
+    Use CTRL+C to exit the logs.
+
+Node restart
+    sudo systemctl restart subspaced
