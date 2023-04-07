@@ -1,2 +1,7 @@
 ZKasino ~ betting protocol on Arb built by ZigZagLabs
 
+USDC, ETH or ARB tokens 
+    Pick your game on https://play.zkasino.io/games
+
+Complete the Crew3 quests:
+    https://crew3.xyz/c/zkasino/questboard
