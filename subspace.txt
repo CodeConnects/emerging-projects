@@ -5,3 +5,6 @@ Running a Node
     Download the polkadot.js extension and create a wallet.
     • https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd
     Save your mnemonic
+
+    Save your wallet address from:
+    • https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Feu-0.gemini-3c.subspace.network%2Fws#/accounts
