@@ -13,6 +13,7 @@ Testnet guide:
 
 The airdrop for running nodes has been confirmed ✅
     https://docs.shardeum.org/node/run/validator
+    https://twitter.com/yashjhade/status/1639947894470967298 (helper guide)
 
 Create your own NFT's.
     • https://spriyo.xyz
