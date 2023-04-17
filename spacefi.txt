@@ -1,4 +1,16 @@
 SpaceFi is a cross-chain web3 platform on Evmos and zkSync, with DEX+NFT+Starter+Spacebase as initial product
 
+https://swap-zksync.spacefi.io/#/swap
+https://app.spacefi.io/#/farm
+
 Join Crew3
     https://zealy.io/c/spacefisoulnetwork-1831/questboard
+
+Medium link
+    https://space-finance.medium.com/what-is-spacefi-building-on-evmos-a2f6c416bea0
+
+Discord
+    https://discord.com/invite/WDtuwbYRXE
+
+Link tree
+    https://link3.to/spacefi_io
