@@ -6,6 +6,7 @@ Deploy a smart contract
 
 Bridge and swap
     https://goerli.linea.build/
+    https://goerli.hop.exchange/#/send?token=USDC&destNetwork=linea&sourceNetwork=ethereum
 
 Give feedback
     https://docs.google.com/forms/d/e/1FAIpQLSen0KN2uqKMJuUxBH8yTfwrb-xdN48kA-NmO-DSCJMYRdQyMA/viewform
