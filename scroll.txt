@@ -3,6 +3,7 @@ Scroll Alpha Testnet
 discord.gg/scroll
 https://twitter.com/Scroll_ZKP
 https://guild.xyz/scrollzkp
+https://layer3.xyz/quests/scroll-zkp
 
 Get Test Tokens:
     ‣ Open & Connect: https://scroll.io/alpha
