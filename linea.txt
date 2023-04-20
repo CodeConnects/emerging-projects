@@ -1,6 +1,6 @@
 Linea ~ zk renamed from ConsenSys zkEVM
 
-Linea Voyage has 9 total weeks
+Linea Voyage has 9 total weeks and will end in July
 
 Deploy a smart contract
     https://docs.linea.build/developers/quickstart
