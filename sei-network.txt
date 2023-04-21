@@ -21,3 +21,6 @@ Sei Sunken Treasure NFT
     Create a wallet: http://keplr.app/#extension
     Go to faucet http://app.seinetwork.io/faucet
     Auto-add SEI Atlantic-2 network
+
+    Make 25+ transactions
+    Claim Treasure NFT: http://seinetwork.io/treasure
