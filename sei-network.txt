@@ -18,4 +18,6 @@ Sei announced new missions in partnership with Blocked Protocol
 https://mirror.xyz/atoms-research.eth/3ly8TPzBTrlJnSWgphNZicF49i6hubGYX3uO-W4y14c
 
 Sei Sunken Treasure NFT
-    
+    Create a wallet: http://keplr.app/#extension
+    Go to faucet http://app.seinetwork.io/faucet
+    Auto-add SEI Atlantic-2 network
