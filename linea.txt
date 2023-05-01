@@ -2,6 +2,9 @@ Linea ~ zk renamed from ConsenSys zkEVM
 
 Linea Voyage has 9 total weeks and will end in July
 
+Week 1, Bridge Week, starts May 2nd
+
+
 Deploy a smart contract
     https://docs.linea.build/developers/quickstart
     https://medium.com/@abrahamchase09/how-to-interact-with-linea-formerly-known-as-consensys-zkevm-by-deploying-a-smart-contract-using-9feb1faae066
