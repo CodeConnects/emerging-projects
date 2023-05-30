@@ -3,9 +3,10 @@ Linea ~ zk renamed from ConsenSys zkEVM
 Linea Voyage has 9 total weeks and will end in July
 
 Week 1, Bridge Week. Starts May 2nd
-Week 2, Social Campaign. Starts May 9, and is mostly off-chain
+Week 2, Social Campaign. Starts May 9th, and is mostly off-chain
 Week 3, NFT Week. Starts May 16th and is going to use a lot of gas
 Week 4, NFT Reveal. Starts May 24th, is mostly off-chain. Previous week was crazy!!
+Week 5, Tech and Dev Week. Starts May 30th, lots of simple dev tasks.
 
 
 Deploy a smart contract
