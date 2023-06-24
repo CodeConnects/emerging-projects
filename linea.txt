@@ -9,6 +9,7 @@ Week 4, NFT Reveal. Starts May 24th, is mostly off-chain. Previous week was craz
 Week 5, Tech and Dev Week. Starts May 30th, lots of simple dev tasks.
 Week 6, Linea Knowledge. Starts June 6th, is off-chain quiz based with no gas needed.
 Week 7, Social Entertainment. Starts June 14th, will be a heavy gas user with lots of points.
+Week 8, DeFi Week. Starts June 26th and will be a monster gas user. Faucet is back open!!
 
 
 Deploy a smart contract
