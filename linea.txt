@@ -3,6 +3,7 @@ Linea ~ zk renamed from ConsenSys zkEVM
 Hackathon is announced, called "Not Another Virtual Hackathon".
 It will run from July 6th to September 6th, and should be really good.
 https://navhackathon.consensys.io/
+Opening Ceremony is July 6th, 9:45AM EST
 
 Linea Voyage has 9 total weeks and will end in July
 
