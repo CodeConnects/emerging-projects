@@ -5,4 +5,3 @@ Airdrop guide
 
 Fuel has a Guild now:
     https://guild.xyz/fuel
-    Requirements are 0.001 ETH, Captcha, and Discord older than 6 months
