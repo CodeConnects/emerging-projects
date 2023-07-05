@@ -7,3 +7,7 @@ Fuel has a Guild now:
     https://guild.xyz/fuel
     Requirements are 0.001 ETH, Captcha, and Discord older than 6 months
     Twitter is not verifying because of API issues, so no extra Discord roles
+
+Hackathon announced, based on Sway language
+    Would like to participate, but don't want to get too deep into Sway
+    Check out doing something mostly in React, with somebody else doing the Sway
