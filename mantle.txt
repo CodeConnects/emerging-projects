@@ -1,5 +1,8 @@
 Mantle ~ L2 from BitDao (Bybit defi)
 
+Mainnet is coming soon and Zealy has a testnet role
+  https://zealy.io/c/mantle/questboard
+
  http://faucet.testnet.mantle.xyz
     • Claim 1000 testnet $BIT
 
@@ -16,4 +19,3 @@ MantleSwap
     • Provide liquidity in the pool tab
     http://testnet.mantleswap.org
 
-Complete Crew3 tasks
