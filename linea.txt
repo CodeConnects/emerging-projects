@@ -1,5 +1,7 @@
 Linea ~ zk renamed from ConsenSys zkEVM
 
+Linea Mainnet is launching on July 18th
+
 Hackathon is announced, called "Not Another Virtual Hackathon".
 It will run from July 6th to September 6th, and should be really good.
 https://navhackathon.consensys.io/
