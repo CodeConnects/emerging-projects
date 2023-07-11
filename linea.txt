@@ -2,6 +2,10 @@ Linea ~ zk renamed from ConsenSys zkEVM
 
 Linea Mainnet is launching on July 18th
 
+Mainnet will have a live watch party with an NFT mint at the end
+https://community.consensys.io/events/details/consensys-global-events-presents-live-from-paris-linea-mainnet/
+Tuesday, July 18, 2023, 11:00 AM – 12:15 PM EDT
+
 Hackathon is announced, called "Not Another Virtual Hackathon".
 It will run from July 6th to September 6th, and should be really good.
 https://navhackathon.consensys.io/
