@@ -1,0 +1,3 @@
+Gasless NFT game on zkSync
+
+Starts on 7/19
