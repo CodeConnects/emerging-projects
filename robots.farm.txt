@@ -1,3 +1,6 @@
 Gasless NFT game on zkSync
 
 Starts on 7/19
+
+Zealy campaign where points convert to NFTs in game
+  https://zealy.io/c/robotsfarm/questboard
