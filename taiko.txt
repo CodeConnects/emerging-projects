@@ -2,6 +2,10 @@ Taiko ~ zk rollup
 
 Testnet 3 is out, and it is incentivized
     Rewards for proposers and provers:
+        To accomplish the goal of testing the new protocol economics design, alpha-3 will be an incentivized testnet towards proposers and provers.
+        We need to test how permissionless proposers and provers act in a mainnet-simulated environment, where they act rationally according to the fees and rewards of the protocol.
+        (Alpha-2 was incentivized only on the prover side).
+        Simulating a mainnet environment with permissionless economic activity is not so simple on a testnet due to the lack of real value assets.
 
 Add Taiko A2 and Sepolia networks:
     • https://chainid.network
