@@ -1,6 +1,7 @@
 Taiko ~ zk rollup
 
 Testnet 3 is out, and it is incentivized
+    Rewards for proposers and provers:
 
 Add Taiko A2 and Sepolia networks:
     • https://chainid.network
