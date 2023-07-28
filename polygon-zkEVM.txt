@@ -1,1 +1,4 @@
+Polygon's zk based L2
 
+On July 24th, they released SAGA, similar to the Arbitrum Odyssey and Linea Voyage
+https://twitter.com/0xPolygonDeFi/status/1683538806199447552
