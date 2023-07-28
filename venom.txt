@@ -7,3 +7,5 @@ Amount and source of funding is unclear, but from the quality they are clearly w
 The Venom Foundation is based in Abu Dhabi
 
 Testnet has been online for a few months now, and they have a dapp testing quest that gives NFTs
+Task have come online and then back offline as they work on improvements after initial testing
+There are 12 projects available to test and mint an NFT right now
