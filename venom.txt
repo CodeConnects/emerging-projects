@@ -3,5 +3,7 @@ L1 Blockchain
 Meant to be fast, but it is different than all of the L2s coming online
 
 Amount and source of funding is unclear, but from the quality they are clearly well capitalized
+22% of tokens are for the community, with that amount released over 90 months
+The Venom Foundation is based in Abu Dhabi
 
 Testnet has been online for a few months now, and they have a dapp testing quest that gives NFTs
