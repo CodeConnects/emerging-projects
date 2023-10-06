@@ -5,4 +5,7 @@ Part of BNB hackathon
 https://zkbridge.com/
 
 Airdrop guide:
-    https://twitter.com/AlphaFrog13/status/1638219851285299200
+  https://twitter.com/AlphaFrog13/status/1638219851285299200
+
+Pandra King minting is now live:
+  https://zkbridge.com/pandraking
