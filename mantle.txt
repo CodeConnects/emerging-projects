@@ -19,3 +19,5 @@ MantleSwap
     • Provide liquidity in the pool tab
     http://testnet.mantleswap.org
 
+New verified protocol where you can add liquidity and snag those MJ Miles:
+  @MysoFinance on Twitter
