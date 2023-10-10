@@ -21,3 +21,6 @@ MantleSwap
 
 New verified protocol where you can add liquidity and snag those MJ Miles:
   @MysoFinance on Twitter
+
+NFT Citizens of Mantle campaign link:
+  https://www.mantle.xyz/blog/announcements/citizens-of-mantle-mint-guide
