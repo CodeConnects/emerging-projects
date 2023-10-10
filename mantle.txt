@@ -24,3 +24,6 @@ New verified protocol where you can add liquidity and snag those MJ Miles:
 
 NFT Citizens of Mantle campaign link:
   https://www.mantle.xyz/blog/announcements/citizens-of-mantle-mint-guide
+
+Citizens of Mantle main website:
+  https://journey.mantle.xyz/en/nft
