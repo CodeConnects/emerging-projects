@@ -41,3 +41,7 @@ Interact with the following platforms:
     http://zkevm.fwdx.xyz
     http://app.mesprotocol.com/spot/ETH-USDC
     http://app.nft.ghostchain.io/#/zkevm
+
+Encode is running a zkEVM Bootcamp
+  6 weeks, starts Nov 20th
+  https://www.encode.club/zksync-zkevm-bootcamp
