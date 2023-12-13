@@ -45,3 +45,9 @@ Interact with the following platforms:
 Encode is running a zkEVM Bootcamp
   6 weeks, starts Nov 20th
   https://www.encode.club/zksync-zkevm-bootcamp
+
+Week 7 Voyage:
+  Head to FXDX: https://app.fwdx.xyz
+  Create new market to swap 15+ $USDC on $WETH then ->
+  https://www.intract.io/linea/quest/6572fc0bef415b56fd67608f
+  https://twitter.com/leshka_eth/status/1734952062017036420
