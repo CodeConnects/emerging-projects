@@ -51,3 +51,7 @@ Week 7 Voyage:
   Create new market to swap 15+ $USDC on $WETH then ->
   https://www.intract.io/linea/quest/6572fc0bef415b56fd67608f
   https://twitter.com/leshka_eth/status/1734952062017036420
+
+Final Voyage
+  https://www.intract.io/linea
+  Waves 0, 6, 7, 8, 9 and 10 still open
