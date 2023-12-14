@@ -40,3 +40,6 @@ Scroll mainnet details:
 
 ETH Online hackathon recap:
   https://twitter.com/BuildWithScroll/status/1722292829442245033
+
+Scroll Origins NFT mint:
+  https://scroll.io/developer-nft/mint
