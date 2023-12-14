@@ -1,0 +1,5 @@
+Phantom wallet on Solana
+
+Top 1 Solana wallet with $118M raised from Paradigm, a16z, Solana Foundation
+
+After installing wallet, there is a quest tab
