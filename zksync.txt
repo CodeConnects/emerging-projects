@@ -1,51 +1,57 @@
 Trade on http://trade.zigzag.exchange
 
 Use ZkSync Era Testnet
-    Claim test tokens http://goerli.portal.zksync.io
-    And interact with these protocols : swap, trade & add liquidity…
-    @spacefi_io
-    @mute_io
-    @NexonFi
-    @syncswap
+  Claim test tokens http://goerli.portal.zksync.io
+  And interact with these protocols : swap, trade & add liquidity…
+  @spacefi_io
+  @mute_io
+  @NexonFi
+  @syncswap
 
 Create your own NFTs on @pinatacloud
-    • Go to http://app.pinata.cloud/register and create an account.
-    • Click on "Add Files", then "File" and upload a picture.
-    • Copy the CID of this picture.
+  • Go to http://app.pinata.cloud/register and create an account.
+  • Click on "Add Files", then "File" and upload a picture.
+  • Copy the CID of this picture.
 
 Complete zkSync CREW3 quests - https://crew3.xyz/c/zksync/invite/03AjzrB9lRBYS6tSCJLmZ
 
 Bridge with Orbiter and do their quests
-    https://guild.xyz/orbiter-finance
-    https://t.co/gPPsuin8B9
+  https://guild.xyz/orbiter-finance
+  https://t.co/gPPsuin8B9
 
 Syncswap quests
-    https://discord.com/invite/syncswap
-    https://galxe.com/SyncSwap/campaign/GCd81U1awt
+  https://discord.com/invite/syncswap
+  https://galxe.com/SyncSwap/campaign/GCd81U1awt
 
 @mute_io
-    • Go to http://goerli.portal.zksync.io/faucet and request testnet ETH.
-    • Add zkSync Testnet chain with http://chainlist.org/?search=zksync&testnets=true.
-    • Swap on http://app.mute.io/swap.
-    • Add liquidity on http://app.mute.io/pool.
+  • Go to http://goerli.portal.zksync.io/faucet and request testnet ETH.
+  • Add zkSync Testnet chain with http://chainlist.org/?search=zksync&testnets=true.
+  • Swap on http://app.mute.io/swap.
+  • Add liquidity on http://app.mute.io/pool.
 
 deploy your own smart contract on zkSync. 
-    https://era.zksync.io/docs/dev/building-on-zksync/contracts/contract-deployment.html
+  https://era.zksync.io/docs/dev/building-on-zksync/contracts/contract-deployment.html
 
 Project to use
-    ZigZagExchange - $ZZ
-    mute_io - $MUTE
-    argentHQ - no token
-    Goal3_xyz
-    PhezzanProtocol
-    IncrementHQ
-    derivio_xyz
-    MESprotocol
-    perpdex
-    SynFuturesDefi
-    atomic__green
-    SatisDEX
+  ZigZagExchange - $ZZ
+  mute_io - $MUTE
+  argentHQ - no token
+  Goal3_xyz
+  PhezzanProtocol
+  IncrementHQ
+  derivio_xyz
+  MESprotocol
+  perpdex
+  SynFuturesDefi
+  atomic__green
+  SatisDEX
 
 zkPorter
   https://twitter.com/0xFastLife/status/1734978893382090935
-  
+
+With 30+ transactions, claim the following NFTs:
+  zkSync Worker (30+ transactions)
+  zkSync Hustler (50+ transactions)
+  zkSync King (100+ transactions)
+
+  Link: https://hypercomic.io/zk24/collect_hk.html
