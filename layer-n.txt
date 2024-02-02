@@ -1,0 +1,9 @@
+Layer N testnet application is open.
+
+  Invested in by Founders Fund, which was founded by Peter Thiel, they were one of the early investors in SpaceX, Facebook, and Palantir.
+  The Nord testnet will be launching soon, you can join here: https://testnet.layern.com
+
+  It's an Ethereum StateNet, a Layer 2 designed as a network of optimized and custom rollup nodes with a shared state and liquidity layer.
+
+  • Recently reached a TPS of 120K in an internal testnet.
+  • The public testnet is expected within this month.
