@@ -11,3 +11,6 @@ Fuel has a Guild now:
 Hackathon announced, based on Sway language
     Would like to participate, but don't want to get too deep into Sway
     Check out doing something mostly in React, with somebody else doing the Sway
+
+Fuel Network Name Service is here ⛽️
+  Join the waitlist to secure a unique .fuel domain at https://fuel.domains
