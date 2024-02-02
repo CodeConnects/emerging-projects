@@ -55,3 +55,19 @@ With 30+ transactions, claim the following NFTs:
   zkSync King (100+ transactions)
 
   Link: https://hypercomic.io/zk24/collect_hk.html
+
+Claim zkSync Guild Roles
+  You can claim various verified levels based on the completion of each criterion.
+  Link: https://guild.xyz/zksync-era
+
+  ⭐️ Verified Level 1:
+  • 10 Transactions on zkSync
+  • Gitcoin Passport (15 score on Unique Humanity)
+  • Email id
+  • Discord account (3 month old)
+
+  ⭐️ Verified Level 2:
+  • Gitcoin Passport (20 score on Unique Humanity)
+
+  ⭐️ Verified Level 3:
+  • Libertas Omnibus NFT Holders.
