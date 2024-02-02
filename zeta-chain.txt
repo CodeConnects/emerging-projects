@@ -2,6 +2,10 @@ ZetaChain is a foundation layer chain, than can connect all other chains
 
 ZetaChain mainnet launched on 02-01-2024
 
+Proof of stake with validators through ZetaHub here: http://hub.zetachain.com/staking
+
+To set up a full node, find instructions here: https://zetachain.com/docs/validators/mainnet/
+
 https://twitter.com/AlphaFrog13/status/1641833236774162436
 
 Testnets
