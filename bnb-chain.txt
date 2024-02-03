@@ -1,2 +1,14 @@
 BNB Chain Greenfield data chain mainnet is now live:
   https://www.bnbchain.org/en/blog/bnb-chains-greenfield-mainnet-launch-marks-new-era-for-web3-data
+
+BNBChainHackathon2024! 💰$10,000 Potential Award distributed among all qualifying submissions!
+
+  Here's the checklist:
+  ✅ Deploy on BNB Greenfield, opBNB, or BNB Smart Chain (BSC) 
+  ✅ Open source for universal access 
+  ✅ Share GitHub, deck, and a short video 
+  ✅ Contracts with 2+ transactions during the hackathon 
+  ✅ New developments only for equal opportunities
+  ✅Tweet about your project with #BuildonBNBChain
+
+  🏆Apply now: https://wkf.ms/3TZo2Os
