@@ -1,0 +1,16 @@
+Holding your Dymension $DYM airdrop?
+
+  Here's how to stake and potentially earn more airdrops in the future, if it follows Celestia's history.
+
+  Dymension staking tutorial👇
+
+  ✅ Guide:
+  1. Connect wallet: https://portal.dymension.xyz/dymension/staking
+  2. Click the "Stake" button next to each validator.
+  3. Enter the amount and stake.
+  4. Sign the transaction.
+  5. Done.
+
+  Note: Your tokens will be locked for over 21 days.
+
+  I recommend dividing between multiple validators.
